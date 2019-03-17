@@ -1,5 +1,5 @@
 # docker-jenkins-python
-A Docker image for running a Jenkins slave agent with python 3 installed.
+A Docker image for running a Jenkins slave agent with python 3.7 installed.
 This environment is designed to support building, package and deploying python packages to a pypi repository.
 
 Starts a container:
